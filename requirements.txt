@@ -1,5 +1,7 @@
 absl-py==2.4.0
 uvicorn
+fastapi 
+websockets
 accelerate==1.13.0
 annotated-doc==0.0.4
 anyio==4.13.0
