@@ -30,7 +30,7 @@ import websockets
 # ┌─────────────────────────────────────────────────────────────────────────┐
 # │  SET YOUR RENDER URL HERE                                               │
 # └─────────────────────────────────────────────────────────────────────────┘
-SERVER_WS = "ws://localhost:8000/ws/sensor"
+SERVER_WS = "wss://your-app-name.onrender.com/ws/sensor"
 
 # ── Model download ────────────────────────────────────────────────────────────
 MODEL_PATH = "face_landmarker.task"
